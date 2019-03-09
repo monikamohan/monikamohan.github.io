@@ -1,0 +1,58 @@
+body {
+	background-color: #fff4fc
+}
+
+.group1 {
+	background-image: url("../images/1.jpg");
+	height: 100vh;
+}
+.heading1 {
+	color: white	
+}
+
+.heading2 {
+	color: #dee0e2;
+	font-style: Sketch Toronto;
+
+}
+
+.nav-link {
+	color: #dee0e2
+}
+
+.heading3 {
+	font-size: 
+}
+
+.group2 {
+	text-align: left;
+}
+
+.group3 {
+	text-align: justify;
+}
+
+.btn btn-primary btn-lg {
+	color: #ff4d4d
+}
+
+img {
+	width: 33%;
+}
+
+.progress-bar1 {
+	background-color: #ff9999
+}
+
+.progress-bar2 {
+	background-color: #ff8080
+}
+
+.progress-bar3 {
+	background-color: #ff6666
+}
+
+.progress-bar4 {
+	background-color: #ff4d4d
+}
+
